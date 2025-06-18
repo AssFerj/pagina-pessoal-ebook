@@ -21,4 +21,4 @@ MIT License
 
 Assis Junior
 
-[Assis Junior W&M](https://assisjunior.com.br)
+[Assis Junior W&M](https://assisjuniorwm.com.br)
