@@ -20,3 +20,5 @@ MIT License
 ## Autor
 
 Assis Junior
+
+[Assis Junior W&M](https://assisjunior.com.br)
